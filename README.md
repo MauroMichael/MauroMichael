@@ -8,7 +8,9 @@ FULL-STACK DEVELOPER
 
 - 🔭 I’m currently working on the Groupal Proyect (e-commerce) in 'Soy Henry' course
 - 🌱 I’m currently learning MongoDB
-- 📫 How to reach me: vecchiarellimauro@gmail.com
+- 📫 How to reach me
+   Email: vecchiarellimauro@gmail.com
+   LinkedIn: 
 
 
 LENGUAGES AND TOOLS:
