@@ -45,6 +45,6 @@ Development of an e-commerce site using NextJS, Auth0, EmailJS, Redux, NodeJs an
 Development of a SPA (Single Page Application) using React and
 Redux as state management. The components were developed with pure CSS. The SPA consumes data from an API
 ('The Dog API) and a DB through the Back End developed in Node.JS using Express, PostgreSQL and Sequelize. Search bar, filters and controlled form for Breed creation.
-https://mauroclientdogs.herokuapp.com/
+ - https://mauroclientdogs.herokuapp.com/
 
 
