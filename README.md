@@ -34,13 +34,13 @@ LENGUAGES AND TOOLS:
 - :1st_place_medal: Auth0
 
 
- **Grupal Final Proyect - E-Commerce**
+ **Grupal Final Project - E-Commerce**
  
 Development of an e-commerce site using NextJS, Auth0, EmailJS, Redux, NodeJs and Algolia for the Front End. The styles were implemented with the Chakra ui and Tailwind libraries. The Back End was implemented with PostgreSQL, Sequelize, Express. For the payment system of the project, the Mercado Pago gateway was used.
  - https://atoch.herokuapp.com/
 
 
-**Individual Proyct - Dog's App**
+**Individual Project - Dog's App**
 
 Development of a SPA (Single Page Application) using React and
 Redux as state management. The components were developed with pure CSS. The SPA consumes data from an API
@@ -48,3 +48,10 @@ Redux as state management. The components were developed with pure CSS. The SPA 
  - https://mauroclientdogs.herokuapp.com/
 
 
+**Another Projects**
+
+ - https://maurosweatherapp.netlify.app/
+  
+ - https://maurosportfolio.netlify.app/
+ 
+ 
