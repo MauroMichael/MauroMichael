@@ -18,7 +18,8 @@ I am Mauro From Argentina who loves movies and technology. I am currently focuse
 
 LENGUAGES AND TOOLS:
 
-- :1st_place_medal: JAVASCRIPT
+- :1st_place_medal: Javascript
+- :1st_place_medal: Typescript
 - :1st_place_medal: NodeJS
 - :1st_place_medal: ReactJS
 - :1st_place_medal: GitHub
