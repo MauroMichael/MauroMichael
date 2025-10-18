@@ -22,11 +22,15 @@ LENGUAGES AND TOOLS:
 - :1st_place_medal: Typescript
 - :1st_place_medal: NodeJS
 - :1st_place_medal: ReactJS
+- :1st_place_medal: NestJs
+- :1st_place_medal: TypeOrm
 - :1st_place_medal: GitHub
 - :1st_place_medal: ExpressJS
 - :1st_place_medal: Redux
 - :1st_place_medal: Sequalize
 - :1st_place_medal: PostgreSQL
+- :1st_place_medal: Mongo
+- :1st_place_medal: Mongoose
 - :1st_place_medal: CSS
 - :1st_place_medal: HTML
 - :1st_place_medal: Ckakra ui
